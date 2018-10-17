@@ -1,0 +1,3 @@
+C:\Users\admin\Documents\Visual Studio 2015\Projects\ConsoleApplication1\EF.MasterSlave\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\ConsoleApplication1\EF.MasterSlave\obj\Debug\ConsoleApplication1.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\ConsoleApplication1\EF.MasterSlave\obj\Debug\ConsoleApplication1.pdb
